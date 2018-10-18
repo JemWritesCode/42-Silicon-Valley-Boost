@@ -1,6 +1,10 @@
 # 42SiliconValleyBoost
 Code from the Boost Program at 42SiliconValley
+We have to follow the standards imposed by the Norm.
 
-00 - b_libft
+b_libft
+100%/100% all_tests: 10/10 correct functions
 
-all_tests: 10/10 correct functions
+b_printf
+
+b_ls
